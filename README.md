@@ -7,7 +7,7 @@ Bonus: One-Page DOM API cheatsheet on section 14.
 Want to learn JavaScript correctly? [here's an awesome video course](https://ilovecoding.org/courses/js2) for iLoveCoding Pro members.
 
 ## I present to you - The JavaScript Cheatsheet 💪
-[![JavaScript Cheatsheet](js-cheatsheet.jpg)](js-cheatsheet.pdf)
+[![JavaScript Cheatsheet](js-cheatsheet.png)](js-cheatsheet.pdf)
 
 Download [9 Page PDF](js-cheatsheet.pdf)
 
