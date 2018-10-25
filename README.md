@@ -26,7 +26,7 @@ Download individual PNGs
 
 ## 👍 What to learn JavaScript?
 
-Try the most comprehensive beginner to advanced JavaScript video course -> [Learn JavaScript Correctly](https://iloveoding.org/courses/htmlcss) on iLoveCoding Pro.
+Try the most comprehensive beginner to advanced JavaScript video course -> [Learn JavaScript Correctly](https://ilovecoding.org/courses/js2) on iLoveCoding Pro.
 
 Don't just learn JavaScript, think and build like a full-stack developer.
 
