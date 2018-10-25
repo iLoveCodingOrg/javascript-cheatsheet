@@ -29,3 +29,8 @@ Download individual PNGs
 Try the most comprehensive beginner to advanced JavaScript video course -> [Learn JavaScript Correctly](https://iloveoding.org/courses/htmlcss) on iLoveCoding Pro.
 
 Don't just learn JavaScript, think and build like a full-stack developer.
+
+## Other Cheatsheets:
+
+- [HTML Cheatsheet](https://github.com/iLoveCodingOrg/html-cheatsheet)
+- [CSS Cheatsheet](https://github.com/iLoveCodingOrg/css-cheatsheet)
