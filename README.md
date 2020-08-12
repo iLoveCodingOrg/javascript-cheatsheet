@@ -8,7 +8,7 @@ Want to learn JavaScript correctly? [here's an awesome video course](https://ilo
 
 ## I present to you - The JavaScript Cheatsheet 💪
 [![JavaScript Cheatsheet](js-cheatsheet-thumb-800.png)](js-cheatsheet.pdf)
-[![JavaScript Cheatsheet](js-cheatsheet.png)](js-cheatsheet.pdf)
+[![JavaScript Cheatsheet](src/js-cheatsheet.png)](js-cheatsheet.pdf)
 
 [Download the full 13-page PDF](js-cheatsheet.pdf)
 
@@ -16,34 +16,34 @@ or
 Download individual pages:
 
 - Page 1: Basic Vocabulary, Seven Types, Objects
-[PNG](js-cheatsheet1.png), [PDF](js-cheatsheet1.pdf)
+[PNG](src/js-cheatsheet1.png), [PDF](src/js-cheatsheet1.pdf)
 - Page 2: Functions - parameters, invocation, parameters, return and more.
-[PNG](js-cheatsheet2.png), [PDF](js-cheatsheet2.pdf)
+[PNG](src/js-cheatsheet2.png), [PDF](src/js-cheatsheet2.pdf)
 - Page 3: Vocabulary around variables and scope
-[PNG](js-cheatsheet3.png), [PDF](js-cheatsheet3.pdf)
+[PNG](src/js-cheatsheet3.png), [PDF](src/js-cheatsheet3.pdf)
 - Page 4: Operators and coercion
-[PNG](js-cheatsheet4.png), [PDF](js-cheatsheet4.pdf)
+[PNG](src/js-cheatsheet4.png), [PDF](src/js-cheatsheet4.pdf)
 - Page 5: Conditional Statement (if/switch/ternary) + Truthy Falsy
-[PNG](js-cheatsheet5.png), [PDF](js-cheatsheet5.pdf)
+[PNG](src/js-cheatsheet5.png), [PDF](src/js-cheatsheet5.pdf)
 - Page 6: Loops - For, While, Do While
-[PNG](js-cheatsheet6.png), [PDF](js-cheatsheet6.pdf)
+[PNG](src/js-cheatsheet6.png), [PDF](src/js-cheatsheet6.pdf)
 - Page 7: Ways to create variable - var, let, const + Event Loop
-[PNG](js-cheatsheet7.png), [PDF](js-cheatsheet7.pdf)
+[PNG](src/js-cheatsheet7.png), [PDF](src/js-cheatsheet7.pdf)
 - Page 8: Browser
-[PNG](js-cheatsheet8.png), [PDF](js-cheatsheet8.pdf)
+[PNG](src/js-cheatsheet8.png), [PDF](src/js-cheatsheet8.pdf)
 - Page 9: DOM - Query, Create, Update, Delete, Events of DOM
-[PNG](js-cheatsheet9.png), [PDF](js-cheatsheet9.pdf)
+[PNG](src/js-cheatsheet9.png), [PDF](src/js-cheatsheet9.pdf)
 - Page 10: Auto-inherited properties + built-in objects
-[PNG](js-cheatsheet10.png), [PDF](js-cheatsheet10.pdf)
+[PNG](src/js-cheatsheet10.png), [PDF](src/js-cheatsheet10.pdf)
 - Page 11: Promise and Async Tasks
-[PNG](js-cheatsheet11.png), [PDF](js-cheatsheet11.pdf)
+[PNG](src/js-cheatsheet11.png), [PDF](src/js-cheatsheet11.pdf)
 - Page 12: 'this' keyword and 3 scenarios to remember
-[PNG](js-cheatsheet12.png), [PDF](js-cheatsheet12.pdf)
+[PNG](src/js-cheatsheet12.png), [PDF](src/js-cheatsheet12.pdf)
 - Page 13: Constructors - Custom and built-in constructors
-[PNG](js-cheatsheet13.png), [PDF](js-cheatsheet13.pdf)
+[PNG](src/js-cheatsheet13.png), [PDF](src/js-cheatsheet13.pdf)
 
 ## Change log:
-
+- August 2020: Reference added on page 1 for `var`, `let` and `const`
 - Nov 16, 2018: Added page 10-13 to the cheatsheet
   Topics added:
   - Page 10: Auto-inherited properties + built-in objects
